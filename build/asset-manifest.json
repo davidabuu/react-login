@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactt-login-form/static/css/main.dfda5614.chunk.css",
+    "main.js": "/reactt-login-form/static/js/main.2a56e7ee.chunk.js",
+    "main.js.map": "/reactt-login-form/static/js/main.2a56e7ee.chunk.js.map",
+    "runtime-main.js": "/reactt-login-form/static/js/runtime-main.4a4e2d35.js",
+    "runtime-main.js.map": "/reactt-login-form/static/js/runtime-main.4a4e2d35.js.map",
+    "static/js/2.d648270a.chunk.js": "/reactt-login-form/static/js/2.d648270a.chunk.js",
+    "static/js/2.d648270a.chunk.js.map": "/reactt-login-form/static/js/2.d648270a.chunk.js.map",
+    "static/js/3.ab33be9b.chunk.js": "/reactt-login-form/static/js/3.ab33be9b.chunk.js",
+    "static/js/3.ab33be9b.chunk.js.map": "/reactt-login-form/static/js/3.ab33be9b.chunk.js.map",
+    "index.html": "/reactt-login-form/index.html",
+    "static/css/main.dfda5614.chunk.css.map": "/reactt-login-form/static/css/main.dfda5614.chunk.css.map",
+    "static/js/2.d648270a.chunk.js.LICENSE.txt": "/reactt-login-form/static/js/2.d648270a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a4e2d35.js",
+    "static/js/2.d648270a.chunk.js",
+    "static/css/main.dfda5614.chunk.css",
+    "static/js/main.2a56e7ee.chunk.js"
+  ]
+}
